@@ -34,16 +34,7 @@
   <img src="https://img.shields.io/badge/Arduino-00ff00?style=for-the-badge&logo=arduino&logoColor=black" />
 </p>
 
----
 
-### 👁️ Dark Projects
-
-- 👻 Horror Hacker Terminal Web UI
-- 🔒 Multi Encryptor Web App
-- 💉 USB Rubber Ducky Scripts
-- 🎯 Custom CTF Challenges
-
----
 
 ### 🔗 Connect With Me
 
