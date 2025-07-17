@@ -1,23 +1,24 @@
 <!-- README.md for Rahul Rajendran -->
 
-<h1 align="center">⚔️ Welcome to My Digital Fortress ⚔️</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Cyber+Security+Researcher;Bug+Hunter+%F0%9F%90%9C;CTF+Player+%F0%9F%92%AC;Hardware+Hacker+%F0%9F%94%8C;Ethical+Hacker+%F0%9F%92%AB;Rahul+Rajendran+On+The+Grid..." alt="Typing SVG" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Access+Granted...;Initializing+GitHub+Terminal;User:+Rahul+Rajendran;Cyber+Security+Researcher;CTF+Player+%7C+Bug+Hunter;Ethical+Hacker+%7C+Hardware+Ninja" alt="Typing SVG" />
 
 ---
 
-<img align="right" alt="Hacking" width="400" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" />
+<img src="https://media.giphy.com/media/oe33xf3B50fsc/giphy.gif" width="200" />
 
-### 🧑‍💻 About Me
+</div>
 
-- 🛡️ Cyber Security Researcher  
-- 🐞 Bug Hunter (Web, APIs, Logic Bugs)  
-- 🧠 Active CTF Competitor & Puzzle Solver  
-- 🛠️ Hardware Hacker | ESP8266, Raspberry Pi, USB HID  
-- 🧑‍🏫 Ethical Hacker & Trainer  
-- 💻 Dark Terminal Enthusiast
+---
+
+### 🧑‍💻 `whoami`
+
+```bash
+> Cyber Security Researcher
+> Bug Hunter | CTF Player | Hardware Hacker
+> Creator of scary terminals & encrypted tools
+> Obsessed with Kali Linux, Python & Wireshark
 
 ---
 
