@@ -1,6 +1,6 @@
 <!-- README.md for Rahul Rajendran -->
 
-<h1 align="center" style="color:#00FF00;">💀 Rahul Rajendran 💀</h1>
+<h1 align="center" style="color:#00FF00;">Hi 👋! I'm Rahul Rajendran</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF00&center=true&vCenter=true&repeat=true&width=500&lines=Cyber+Security+Researcher;Bug+Hunter+%F0%9F%90%9C+%7C+CTF+Player+%F0%9F%94%AB;Hardware+Hacker+%F0%9F%94%8C;Ethical+Hacker+%F0%9F%92%BB;Fear+Me+in+Your+Terminal..." />
