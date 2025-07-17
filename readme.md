@@ -36,15 +36,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulrajendran&show_icons=true&theme=chartreuse-dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulrajendran&layout=compact&theme=chartreuse-dark&hide_border=true" width="48%" />
-</p>
-
----
-
 ### 👁️ Dark Projects
 
 - 👻 Horror Hacker Terminal Web UI
