@@ -19,7 +19,7 @@
 - 🛡️ Cybersecurity Researcher
 - 🐞 Web & Logic Bug Hunter
 - 🧠 CTF Competitor & Writeups Creator
-- ⚙️ Hardware Hacker (ESP8266, USB HID)
+- ⚙️ Hardware Hacker (ESP32, USB HID)
 - 🧪 Ethical Hacker & Educator
 
 ---
@@ -68,5 +68,5 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60"/>
   <br>
   <i style="color:#00FF00;">Hack the Planet 🌍 — Stay ethical 💀</i>
-   <i style="color:#00FF00;">#Hack For Good</i>
+<br>   <i style="color:#00FF00;">#Hack For Good</i>
 </p>
